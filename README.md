@@ -1,7 +1,7 @@
 # Rotary Encoder with I²C Interface
 Rotary encoders are a nice touch for many projects. However, their control requires some pins, interrupts and debouncing. Thanks to this device, a rotary encoder can be easily controlled via the I²C interface, the built-in ATtiny202/212/402/412 does the rest. By assigning different I²C addresses, it is even possible to daisy-chain several rotary encoders. The device is powered via the I²C connection and operates in the voltage range between 2.7V and 5V.
 
-- Design Files (EasyEDA): https://easyeda.com/wagiminator/
+- Design Files (EasyEDA): https://easyeda.com/wagiminator/attiny412-i2c-rotary-encoder
 
 ![pic1.jpg](https://raw.githubusercontent.com/wagiminator/ATtiny412-I2C-Rotary-Encoder/main/documentation/I2C_RotaryEncoder_pic1.jpg)
 
