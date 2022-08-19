@@ -179,7 +179,6 @@ boolean encoder_isPressed() {
 
 ![pic2.jpg](https://raw.githubusercontent.com/wagiminator/ATtiny412-I2C-Rotary-Encoder/main/documentation/I2C_RotaryEncoder_pic2.jpg)
 ![pic3.jpg](https://raw.githubusercontent.com/wagiminator/ATtiny412-I2C-Rotary-Encoder/main/documentation/I2C_RotaryEncoder_pic3.jpg)
-![pic4.jpg](https://raw.githubusercontent.com/wagiminator/ATtiny412-I2C-Rotary-Encoder/main/documentation/I2C_RotaryEncoder_pic4.jpg)
 
 # License
 ![license.png](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
